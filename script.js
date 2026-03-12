@@ -62,9 +62,13 @@ const translations = {
         "about-3": "Tenho experiência prática na análise de dados operacionais, métricas de logística e customer experience (CX), traduzindo bases complexas em relatórios claros que suportam a tomada de decisões estratégicas das equipes e da liderança.",
         "skills-title": "<span class='tag'>&lt;/</span>Minhas <span class='white-text'>Habilidades<span class='tag'>&gt;</span></span>",
         "cert-title": "<span class='tag'>&lt;/</span>Meus <span class='white-text'>Certificados<span class='tag'>&gt;</span></span>",
+        "cert-google-title": "Google Data Analytics Professional",
+        "cert-google-desc": "Certificação Profissional do Google em Análise de Dados",
         "cert-view": "<i class='bx bx-link-external'></i> Visualizar",
         "proj-title": "<span class='tag'>&lt;/</span>Meus <span class='white-text'>Projetos<span class='tag'>&gt;</span></span>",
         "proj-btn": "Ver Projeto",
+        "proj-dev-title": "Em desenvolvimento",
+        "proj-dev-desc": "Estou trabalhando em novos e empolgantes projetos. Em breve eles estarão disponíveis aqui!",
         "footer-text": "&copy; 2024 Carlos Amaral. Todos os direitos reservados."
     },
     en: {
@@ -82,9 +86,13 @@ const translations = {
         "about-3": "I have hands-on experience analyzing operational data, logistics metrics, and customer experience data, translating complex datasets into clear insights that support business teams and leadership.",
         "skills-title": "<span class='tag'>&lt;/</span>My <span class='white-text'>Skills<span class='tag'>&gt;</span></span>",
         "cert-title": "<span class='tag'>&lt;/</span>My <span class='white-text'>Certificates<span class='tag'>&gt;</span></span>",
+        "cert-google-title": "Google Data Analytics Professional",
+        "cert-google-desc": "Google Data Analytics Professional Certificate",
         "cert-view": "<i class='bx bx-link-external'></i> View",
         "proj-title": "<span class='tag'>&lt;/</span>My <span class='white-text'>Projects<span class='tag'>&gt;</span></span>",
         "proj-btn": "View Project",
+        "proj-dev-title": "Under development",
+        "proj-dev-desc": "I am working on new and exciting projects. They will be available here soon!",
         "footer-text": "&copy; 2024 Carlos Amaral. All rights reserved."
     }
 };
