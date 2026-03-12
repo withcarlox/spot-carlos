@@ -48,6 +48,7 @@ themeBtn.onclick = () => {
 // --- Internationalization (i18n) ---
 const translations = {
     pt: {
+        "nav-logo": "Portfólio",
         "nav-inicio": "Início",
         "nav-sobre": "Sobre mim",
         "nav-hab": "Minhas Habilidades",
@@ -72,6 +73,7 @@ const translations = {
         "footer-text": "&copy; 2024 Carlos Amaral. Todos os direitos reservados."
     },
     en: {
+        "nav-logo": "Portfolio",
         "nav-inicio": "Home",
         "nav-sobre": "About me",
         "nav-hab": "My Skills",
